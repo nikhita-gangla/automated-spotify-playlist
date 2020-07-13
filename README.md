@@ -16,6 +16,7 @@ I wanted to gain a better understanding of both Object-Oriented Programming, and
 ## Setup
 1) Install all necessary packages in the packages.txt file.
 `pip3 install -r packages.txt`
+* Add the exceptions.py file into the project directory.
 
 2) Enable Oauth2.0 for Google, retrieve API key and download client_secret.json
 * Go to the [Google Developers Platform] page and log into the Google account that is connected to the Youtube channel you wish to grab liked videos from.
@@ -42,7 +43,7 @@ I wanted to gain a better understanding of both Object-Oriented Programming, and
 
 4) Run the project
 * Using the terminal, navigate to the directory of the project
-* Run the project using `python3 reate_playlist.py`
+* Run the project using `python3 automated_playlist.py`
 * Copy paste the link that is generated into your browser
 <img width="660" alt="Screen Shot 2020-07-13 at 7 46 03 PM" src="https://user-images.githubusercontent.com/62456147/87301413-20fa2800-c542-11ea-8d66-1354b0cfe76b.png">
 
