@@ -102,7 +102,7 @@ class CreatePlaylist:
         })
 
         # specify endpoint
-        query = "https://api.spotify.com/v1/users/<MY USER ID>/playlists".format()
+        query = "https://api.spotify.com/v1/users/{MY USER ID}/playlists".format()
         response = requests.post(
             query,
             data=request_body,
