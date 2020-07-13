@@ -1,2 +1,6 @@
-# automated-spotify-playlist
-I used Python, and Youtube and Spotify APIs in order to automatically create a Spotify playlist from my Liked videos on Youtube.
+# An Automated Spotify Playlist from YouTube Liked Videos
+This project uses a Python script in order to take Liked videos from my YouTube account, and automatically add them to a dedicated Playlist in my Spotify Account.
+
+
+
+
